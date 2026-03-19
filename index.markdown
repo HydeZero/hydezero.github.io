@@ -9,6 +9,6 @@ layout: home
 
 Hello. Welcome to my blog, I hope all of you have a good day.
 
-Oh and try subscribing to the [rss feed](/feed.xml) (linked again at the bottom) using an RSS reader. Please use a GUI app for it.
+Oh and try subscribing to the [rss feed](/feed.xml) using an RSS reader. Please use a GUI app for it.
 
 Posts are listed below.
