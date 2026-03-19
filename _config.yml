@@ -30,9 +30,8 @@ domain: hydezero.github.io
 github_username:  HydeZero
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
