@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Public Key Generated"
-date:   2026-03-18 22:15:42 -0500
+date:   2026-03-18 22:18:29 -0500
 categories: gpg update
 ---
 
-I have generated a key via GPG; this, in short, means I can now sign and encrypt stuff. Now you can know if it actually is me releasing/signing stuff. The key is hosted on the OpenPGP keyserver, and its fingerprint is `D53B7C199620E19314387D004E23E7D1BE44FB14`.
+I have generated a key via GPG; this, in short, means I can now sign and encrypt stuff. The key is hosted on the OpenPGP keyserver, and its fingerprint is `D53B7C199620E19314387D004E23E7D1BE44FB14`.
+
+I will be using this key to sign my GitHub commits and any files I release.
 
 ## How To Import
 
