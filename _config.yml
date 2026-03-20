@@ -18,15 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HydeZero's Tech Blog
+title: HydeZero's Blog
 email: zach10smith@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   HydeZero's personal blog, showcasing projects and neat things I have made.
-  Mainly about programming and software development.
+  Mainly about programming and software development, but also occasionally about other topics that I find interesting, such as gaming and the creative arts. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hydezero.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 domain: hydezero.github.io
 github_username:  HydeZero
+twitter_username: hydez3ro
 
 # disable automatic generation of title from headings in markdown files (why isnt the 404 page hidden by default?)
 titles_from_headings:

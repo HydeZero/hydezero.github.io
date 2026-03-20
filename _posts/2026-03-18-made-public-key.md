@@ -2,7 +2,7 @@
 layout: post
 title:  "Public Key Generated"
 date:   2026-03-18 22:18:29 -0500
-categories: gpg update
+categories: update gpg
 ---
 
 I have generated a key via GPG; this, in short, means I can now sign and encrypt stuff. The key is hosted on the OpenPGP keyserver, and its fingerprint is `D53B7C199620E19314387D004E23E7D1BE44FB14`.
