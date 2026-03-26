@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HydeZero's Blog
-email: zach10smith@proton.me
+title: HydeZero
 description: >- # this means to ignore newlines until "baseurl:"
-  HydeZero's personal blog, showcasing projects and neat things I have made.
-  Mainly about programming and software development, but also occasionally about other topics that I find interesting, such as gaming and the creative arts. 
+  HydeZero's personal website, showcasing projects and neat things he has made.
+  Topics include programming, the creatives, and tech in general. Some fandom discussions may also be present. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://hydezero.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 domain: hydezero.github.io
 github_username:  HydeZero
 twitter_username: hydez3ro
-
+permalink: /blog/:year/:month/:day/:title/
+author: Zachary Smith
 # disable automatic generation of title from headings in markdown files (why isnt the 404 page hidden by default?)
 titles_from_headings:
   enabled: false
@@ -37,6 +37,9 @@ titles_from_headings:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-seo-tag
 
 # timezone
 timezone: America/Chicago
