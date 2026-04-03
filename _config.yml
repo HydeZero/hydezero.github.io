@@ -28,7 +28,6 @@ domain: hydezero.github.io
 github_username:  HydeZero
 twitter_username: hydez3ro
 permalink: /blog/:year/:month/:day/:title/
-author: Zachary Smith
 # disable automatic generation of title from headings in markdown files (why isnt the 404 page hidden by default?)
 titles_from_headings:
   enabled: false
